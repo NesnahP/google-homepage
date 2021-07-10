@@ -48,8 +48,8 @@ input.search {
     width: 570px;
     outline: none;
     background-image: 
-        url(/img/mglass.png),
-        url("/img/google_mic.png");
+        url(img/mglass.png),
+        url("img/google_mic.png");
     background-position: 
         left,
         right;
